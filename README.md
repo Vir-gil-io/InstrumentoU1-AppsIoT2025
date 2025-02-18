@@ -30,7 +30,8 @@ Examen Final: <br>
 
 #### Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 <h3>Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores</h3>
-<iframe src="https://drive.google.com/file/d/1UL_LjbCxJgDWJv0OqgZm2joZbCGh39CC/preview" width="700" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UL_LjbCxJgDWJv0OqgZm2joZbCGh39CC/preview" width="700" height="400" allowfullscreen></iframe>
+
 
 
 
