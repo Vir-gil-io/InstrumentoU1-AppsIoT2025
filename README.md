@@ -30,7 +30,6 @@ Examen Final: <br>
 
 #### Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 https://drive.google.com/file/d/1UL_LjbCxJgDWJv0OqgZm2joZbCGh39CC/view?usp=sharing
-https://github.com/Vir-gil-io/InstrumentoU1-AppsIoT2025/blob/main/video%2010%20comprimido.mp4
 
 
 
