@@ -16,22 +16,19 @@ Examen Final: <br>
 
 Esparza Padilla Josué Alejandro:
 Examen 1: <br>
-<img src="![image](https://github.com/user-attachments/assets/7285f902-b813-48f1-9142-68cd4e1a3979)" width="700"/><br>
+<img src="https://drive.google.com/file/d/1NEFG7L-pSE9ch1PUtBGEwOWgUFIdnihL/view?usp=sharing" width="700"/><br>
 Examen 2: <br>
-<img src="https://drive.google.com/uc?export=view&id=1saAw9VJutHXMy2n-XAaFuoKM0WLmLHVb" width="700"/><br>
+<img src="https://drive.google.com/file/d/1R0eYBayzAtHhHF_baUw5ytNY9SPxOy_h/view?usp=sharing" width="700"/><br>
 Examen 3: <br>
-<img src="https://drive.google.com/uc?export=view&id=1wSqDB90YY1k41rzpC1wJmm9unRTW-REJ" width="700"/><br>
+<img src="https://drive.google.com/file/d/1IV4niFpPUHmUM6cr2l4xjOkHpBOiXvT-/view?usp=sharing" width="700"/><br>
 Examen 4: <br>
-<img src="https://drive.google.com/uc?export=view&id=1HAibuQNbVU6EtErGKmEEDC6Jv-eRIqYc" width="700"/><br>
+<img src="https://drive.google.com/file/d/1fSGQuawD0NmALBVeCwg2wLSeu8zUR4wm/view?usp=sharing" width="700"/><br>
 Examen Final: <br>
-<img src="https://drive.google.com/uc?export=view&id=1lT6TfCHdY8yXQY2MGIQSy2kvBJ3irNmp" width="700"/><br><br>
+<img src="https://drive.google.com/file/d/1eQ72x923ksYP_LsvJnefR4T3nNjtrKRg/view?usp=sharing" width="700"/><br><br>
 
 ## Parte práctica(60 puntos)
 
-Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores<br>
-<video width="640" height="500" controls>
-  <source src="https://drive.google.com/uc?export=view&id=1IfxJUTn_Z7Gzz9BLM22_zq9O8pMXERE2" type="video/mp4">
-</video><br>
+Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 
 
 Ejercicios en Clase
