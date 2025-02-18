@@ -17,9 +17,8 @@ Esparza Padilla Josué Alejandro:
 
 ## Parte práctica(60 puntos)
 
-Ejercicio 1: Alacenamiento de Datos (15 puntos)
+Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 
-Ejercicio 2: Control de Actuadores (15 puntos)
 
 Ejercicios en Clase
 
