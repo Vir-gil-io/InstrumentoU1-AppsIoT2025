@@ -10,9 +10,9 @@ Examen 2: <br>
 Examen 3: <br>
 <img src="https://drive.google.com/uc?export=view&id=1wSqDB90YY1k41rzpC1wJmm9unRTW-REJ" width="650"/><br>
 Examen 4: <br>
-<img src="" width="650"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1HAibuQNbVU6EtErGKmEEDC6Jv-eRIqYc" width="650"/><br>
 Examen Final: <br>
-<img src="https://drive.google.com/uc?export=view&id=12WUhjYDxUkDFf0PJhSFZBqX42xf1uJiE" width="650"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1lT6TfCHdY8yXQY2MGIQSy2kvBJ3irNmp" width="650"/><br>
 Esparza Padilla Josué Alejandro:
 
 ## Parte práctica(60 puntos)
