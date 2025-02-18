@@ -16,15 +16,15 @@ Examen Final: <br>
 
 Esparza Padilla Josué Alejandro:
 Examen 1: <br>
-<img src="https://drive.google.com/file/d/1NEFG7L-pSE9ch1PUtBGEwOWgUFIdnihL/view?usp=sharing" width="700"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1NEFG7L-pSE9ch1PUtBGEwOWgUFIdnihL" width="700"/><br>
 Examen 2: <br>
-<img src="https://drive.google.com/file/d/1R0eYBayzAtHhHF_baUw5ytNY9SPxOy_h/view?usp=sharing" width="700"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1R0eYBayzAtHhHF_baUw5ytNY9SPxOy_h" width="700"/><br>
 Examen 3: <br>
-<img src="https://drive.google.com/file/d/1IV4niFpPUHmUM6cr2l4xjOkHpBOiXvT-/view?usp=sharing" width="700"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1IV4niFpPUHmUM6cr2l4xjOkHpBOiXvT-" width="700"/><br>
 Examen 4: <br>
-<img src="https://drive.google.com/file/d/1fSGQuawD0NmALBVeCwg2wLSeu8zUR4wm/view?usp=sharing" width="700"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1fSGQuawD0NmALBVeCwg2wLSeu8zUR4wm" width="700"/><br>
 Examen Final: <br>
-<img src="https://drive.google.com/file/d/1eQ72x923ksYP_LsvJnefR4T3nNjtrKRg/view?usp=sharing" width="700"/><br><br>
+<img src="https://drive.google.com/uc?export=view&id=1eQ72x923ksYP_LsvJnefR4T3nNjtrKRg" width="700"/><br><br>
 
 ## Parte práctica(60 puntos)
 
