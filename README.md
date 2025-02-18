@@ -6,9 +6,9 @@ Correa González Gilberto Fabián:
 Examen 1: <br>
 <img src="https://drive.google.com/uc?export=view&id=109SOHW3oqziotbuNRsDZ9mE1Ku3VWO8V" width="650"/><br>
 Examen 2: <br>
-<img src="" width="650"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1saAw9VJutHXMy2n-XAaFuoKM0WLmLHVb" width="650"/><br>
 Examen 3: <br>
-<img src="" width="650"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1wSqDB90YY1k41rzpC1wJmm9unRTW-REJ" width="650"/><br>
 Examen 4: <br>
 <img src="" width="650"/><br>
 Examen Final: <br>
