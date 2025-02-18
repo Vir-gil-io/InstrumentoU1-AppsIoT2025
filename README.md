@@ -38,3 +38,7 @@ https://drive.google.com/file/d/1UL_LjbCxJgDWJv0OqgZm2joZbCGh39CC/view?usp=shari
 
 ### Ejercicios 3 y 4: Soldadura<br>
 Correa González Gilberto Fabián:<br>
+<img src="https://drive.google.com/uc?export=view&id=1qXFcerE5iiGfa0J65SGqv6NwuBKEtjwo" width="700"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1vXtMWrFfue8lctbsaM6ANTWnqB2X1E71" width="700"/><br><br>
+
+Esparza Padilla Josué Alejandro:<br>
