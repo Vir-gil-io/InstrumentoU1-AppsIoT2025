@@ -33,4 +33,5 @@ Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 
 Ejercicios en Clase
 
-Ejercicios 3 y 4: Soldadura
+### Ejercicios 3 y 4: Soldadura<br>
+Correa González Gilberto Fabián:<br>
