@@ -2,7 +2,7 @@
 
 ## Parte Teórica (30 puntos)
 
-Correa González Gilberto Fabián:
+Correa González Gilberto Fabián:<br>
 Examen 1: <br>
 <img src="https://drive.google.com/uc?export=view&id=109SOHW3oqziotbuNRsDZ9mE1Ku3VWO8V" width="700"/><br>
 Examen 2: <br>
@@ -14,7 +14,7 @@ Examen 4: <br>
 Examen Final: <br>
 <img src="https://drive.google.com/uc?export=view&id=1lT6TfCHdY8yXQY2MGIQSy2kvBJ3irNmp" width="700"/><br><br>
 
-Esparza Padilla Josué Alejandro:
+Esparza Padilla Josué Alejandro:<br>
 Examen 1: <br>
 <img src="https://drive.google.com/uc?export=view&id=1NEFG7L-pSE9ch1PUtBGEwOWgUFIdnihL" width="700"/><br>
 Examen 2: <br>
