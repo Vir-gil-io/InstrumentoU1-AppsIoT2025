@@ -3,7 +3,16 @@
 ## Parte Teórica (30 puntos)
 
 Correa González Gilberto Fabián:
-
+Examen 1: <br>
+<img src="https://drive.google.com/uc?export=view&id=109SOHW3oqziotbuNRsDZ9mE1Ku3VWO8V" width="550"/><br>
+Examen 2: <br>
+<img src="" width="550"/><br>
+Examen 3: <br>
+<img src="" width="550"/><br>
+Examen 4: <br>
+<img src="" width="550"/><br>
+Examen Final: <br>
+<img src="https://drive.google.com/uc?export=view&id=12WUhjYDxUkDFf0PJhSFZBqX42xf1uJiE" width="550"/><br>
 Esparza Padilla Josué Alejandro:
 
 ## Parte práctica(60 puntos)
