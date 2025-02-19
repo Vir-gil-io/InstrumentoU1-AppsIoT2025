@@ -57,5 +57,5 @@ Correa González Gilberto Fabián:<br>
 <img src="https://drive.google.com/uc?export=view&id=1vXtMWrFfue8lctbsaM6ANTWnqB2X1E71" width="450"/><br><br>
 
 Esparza Padilla Josué Alejandro:<br>
-<img src="https://drive.google.com/uc?export=view&id=umhwePgsxiODAZNWXwmA1DYqFsz" width="450"/>
-<img src="https://drive.google.com/file/d/1OBt9QJbeMOBNPuLMZfdReveNXQjgNLs0/view?usp=sharing" width="450"/><br><br>
+<img src="https://drive.google.com/uc?export=view&id=1DMtT-umhwePgsxiODAZNWXwmA1DYqFsz" width="450"/>
+<img src="https://drive.google.com/uc?export=view&id=1OBt9QJbeMOBNPuLMZfdReveNXQjgNLs0" width="450"/><br><br>
