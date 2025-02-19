@@ -26,6 +26,7 @@ Examen 4: <br>
 Examen Final: <br>
 <img src="https://drive.google.com/uc?export=view&id=1eQ72x923ksYP_LsvJnefR4T3nNjtrKRg" width="700"/><br><br>
 
+## Parte Práctica (60 puntos)
 #### Ejercicio 1 y 2: Almacenamiento de Datos y Control de Actuadores
 https://drive.google.com/file/d/1UL_LjbCxJgDWJv0OqgZm2joZbCGh39CC/view?usp=sharing<br><br>
 
