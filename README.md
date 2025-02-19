@@ -50,9 +50,6 @@ Video 9: <br>
 https://drive.google.com/file/d/1S3suwNCX-wRHv6FCEo4kOmdYysx9clji/view?usp=sharing<br><br>
 
 
-
-#### Ejercicios en Clase
-
 ### Ejercicios 3 y 4: Soldadura<br>
 Correa González Gilberto Fabián:<br>
 <img src="https://drive.google.com/uc?export=view&id=1qXFcerE5iiGfa0J65SGqv6NwuBKEtjwo" width="450"/>
